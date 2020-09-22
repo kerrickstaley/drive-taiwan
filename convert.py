@@ -200,8 +200,8 @@ class TagMap:
 
   @classmethod
   def _normalize(cls, question: str) -> str:
-    # question = question.sub('<br/>', ' ')
-    question = re.sub(question, ' +', ' ')
+    question = question.replace('<br/>', ' ')
+    question = re.sub(' +', ' ', question)
     question = question.strip()
     return question
 
