@@ -255,6 +255,14 @@ class question(object):
   @initializer
   def __init__(self,number='',question='',answer='',category='', qfile=''):
     pass
+
+  def __repr__(self):
+    attrs = ['number', 'question', 'answer', 'category', 'qfile']
+    pieces = []
+    for attr in attrs:
+      pieces.append('{}={}'.format(attr, repr(getattr(self, attr))))
+    return '{}({})'.format(self.__class__.__name__, ', '.join(pieces))
+
   def __eq__(self, other):
     copy_self = deepcopy(self)
     copy_other = deepcopy(other)
