@@ -185,22 +185,22 @@ class TagMap:
     self._q_and_a_to_tags = {}
     for qatag in question_answer_tags:
       key = self._key(qatag.question, qatag.answer)
-      self._q_and_a_to_tags[key] = qtag.tags
+      self._q_and_a_to_tags[key] = qatag.tags
 
   @classmethod
   def load_from_yaml(cls, yaml_file_path):
     with open(yaml_file_path) as f:
-      data = yaml.load(f)
+      data = yaml.safe_load(f)
 
     qatags = []
     for entry in data:
-      qatags.append(QuestionAnswerTags(question=entry['question'], answer=str(entry['answer']), tags=entry['tags']))
+      qatags.append(TagMap.QuestionAnswerTags(question=entry['question'], answer=str(entry['answer']), tags=entry['tags']))
 
     return cls(qatags)
 
   @classmethod
   def _normalize(cls, question: str) -> str:
-    question = question.sub('<br/>', ' ')
+    # question = question.sub('<br/>', ' ')
     question = re.sub(question, ' +', ' ')
     question = question.strip()
     return question
@@ -209,7 +209,7 @@ class TagMap:
   def _key(cls, question: str, answer: str) -> str:
     return cls._normalize(question) + '|' + answer
 
-  def get_tags(self, question: Question) -> List[str]:
+  def get_tags(self, question: "Question") -> List[str]:
     """
     Returns list of tags, or None if there are no tags for the given question defined in the YAML file.
     """
@@ -273,10 +273,10 @@ class QuestionFile(object):
         self.labels[id] = tag
 
   def readTagMap(self):
-    if not os.path.exists('inputs/tags'):
+    if not os.path.exists('input/tags'):
       raise RuntimeError('Directory inputs/tags does not exist; did you run this from the root of the repo?')
 
-    yaml_path = os.path.join('inputs/tags', '{}-{}-{}-{}.yaml'.format(self.language, self.vehicle, self.signsrules, self.truechoice)
+    yaml_path = os.path.join('input/tags', '{}-{}-{}-{}.yaml'.format(self.language, self.vehicle, self.signsrules, self.truechoice))
     if not os.path.exists(yaml_path):
       return None
 
