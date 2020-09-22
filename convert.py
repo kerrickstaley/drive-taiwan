@@ -99,7 +99,7 @@ def main():
       txt = text.get_text()
       txt_strip = txt.strip()
       txt_nospace = re.sub('\s+','',txt)
-      if not txt:
+      if not txt_strip:
         continue
       skip = False
       for ignore in ignorable_lines:
