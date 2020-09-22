@@ -1,19 +1,25 @@
+- question: 'If you are in a hurry, <br/>(1)  you may speed. <br/>(2)  you don''t
+    have to obey the traffic rules. <br/>(3)  you still have to comply with the traffic
+    rules.  '
+  answer: 3
+  tags:
+  - easy
 - question: 'Defensive driving refers to <br/>(1) drive reasonablely and carefully
     to prevent accidents <br/>(2) excellent driving skills <br/>(3) good lifestyle. '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'The higher the speed, the longer the braking distance. If the speed doubles,
     the required braking distance <br/>(1)  doubles. <br/>(2)  is 4 times greater.
     <br/>(3)  is 8 times greater.  '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'As speed increases, the driver''s field of view <br/>(1)  remains the
     same.  <br/>(2)  becomes narrower. <br/>(3)  becomes wider.  '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'Drivers are required to use their headlights at night. If driving in
     a well-lit urban area, drivers may <br/>(1)  wear sunglasses. <br/>(2)  use their
     high-beam headlights. <br/>(3)  use their low-beam headlights.  '
@@ -24,7 +30,7 @@
     up to pass through the water quickly. <br/>(3)  use their brakes as often as possible.  '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'After an accident, <br/>(1) remain at the scene and call the police <br/>(2)
     not my problem, so hurry and leave <br/>(3) argue with the victim in order to
     be free from any responsibility. '
@@ -36,7 +42,7 @@
     the reassessment authority review your case. <br/>(3)  you may take legal action.  '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'When changing lanes, in order to prevent accidents resulting from the
     blind spots, <br/>(1) use the turn signal in advance before turning, check through
     mirrors and turn your head around <br/>(2) focus on the traffic ahead <br/>(3)
@@ -51,7 +57,7 @@
     in the middle of the road so everyone can see you. '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'Which of the following descriptions about the safe distance is incorrect?
     <br/>(1) Because a motorcycle is smaller, maintain a shorter safe distance behind
     other vehicles compared to other vehicles at the same speed <br/>(2) Safe distance
@@ -59,7 +65,7 @@
     vehicles, slow down slightly to regain a safe distance. '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'About the "Guidelines for Buying a Helmet", which of the following is
     wrong? <br/>(1) The helmet must have a BSMI certified label on it <br/>(2) When
     a helmet sustained strong impact, it is not necessary to replace it as long as
@@ -67,7 +73,7 @@
     that are made with reflective materials. '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'How to choose an appropriate helmet? <br/>(1) Choose a helmet used at
     the construction site, also called a hard hat, which is light with good ventilation
     <br/>(2) Select the helmet with BSMI certification sticker, which is safer <br/>(3)
@@ -82,13 +88,13 @@
     radius in inner wheels. '
   answer: 3
   tags:
-  - easy
+  - impossible
 - question: 'When passing through a waterlogged area, what should a motorcycle rider
     do? <br/>(1) Pass through with low speed <br/>(2) Use the brake more often <br/>(3)
     Speed through the area. '
   answer: 1
   tags:
-  - impossible
+  - easy
 - question: 'Which of the following is not what a motorcycle driver should do when
     turning at an intersection? <br/>(1) slow down and be courteous <br/>(2) turn
     on the headlight <br/>(3) turn on the direction light. '
@@ -140,7 +146,7 @@
     <br/>(2)  lean backward; <br/>(3)  stay relaxed.  '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'The faster a vehicle goes around a curve, the_____ the centrifugal force
     will be. <br/>(1)  greater <br/>(2)  smaller <br/>(3)  Neither are correct.  '
   answer: 1
@@ -160,26 +166,26 @@
     the elbows out. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'When there is an unconscious victim in an accident with broken bones,
     <br/>(1) Do not move the victim unless there is an emergency  <br/>(2) Before
     moving the injured, treat the victim''s symptoms first, such as breathing problems,
     bleeding and fractures <br/>(3) All of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'When an injured person in an accident is in shock, the person''s face
     would be <br/>(1) pale <br/>(2) lead gray <br/>(3) symptoms of hectic flush. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'When there is an accident ahead, and the police has arrived at the scene,
     what should you do? <br/>(1) Stop at the roadside and watch <br/>(2) Go around
     and do not be curious and remain at the scene to watch <br/>(3) Stay to help and
     check in on facebook. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'Can a person ride a motorcycle after alcohol consumption? <br/>(1) Yes
     <br/>(2) No <br/>(3) Ride slowly. '
   answer: 2
@@ -197,13 +203,13 @@
     of the above. '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'When riding a motorcycle, <br/>(1) focus on the road ahead and pay attention
     to the cars around you <br/>(2) look around and you can eat and drink <br/>(3)
     fool around with the passenger on the rear seat. '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'When a large vehicle passes by, it creates air suction like a vacuum
     cleaner. Therefore, when riding alongside a large vehicle, <br/>(1) hold the handlebar
     firmly <br/>(2) relax your body <br/>(3) ignore it. '
@@ -215,18 +221,18 @@
     width would need to be <br/>(1) smaller <br/>(2) larger <br/>(3) unchanged. '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'After riding through waterlogged areas, <br/>(1) try to turn on the lights
     <br/>(2) attempt to use the brakes <br/>(3) test the accelerator. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'The main reason for accidents to occur when turning is <br/>(1) not paying
     attention to the blind spot <br/>(2) not paying attention to the difference in
     inner wheel radius <br/>(3) all of the above. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'When squeezing the brake levers to check the motorcycle brakes, how wide
     should the gap be between the levers? <br/>(1) There should be no gap <br/>(2)
     There should be a gap about 1 to 2 cm wide <br/>(3) There should be a gap about
@@ -238,7 +244,7 @@
     of causing death once injured? <br/>(1) Limbs <br/>(2) Head <br/>(3)  Back . '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'When you encounter a police convoy, you can <br/>(1)  join the convoy.  <br/>(2)  speed
     past it. <br/>(3)  not allowed to break into the convoy.  '
   answer: 3
@@ -267,13 +273,13 @@
     may turn right. <br/>(3)  left turns are allowed, if traffic conditions permit.  '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'For safety, social order, and public well-being, motorcyclists should
     <br/>(1)  drive courteously and abide by the law. <br/>(2)  focus on their riding
     skills only <br/>(3) not smoke and drink.  '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'If a driver hits a pedestrian, they should <br/>(1)  do their best to
     offer firstaid if the person is injured. <br/>(2)  leave the scene of the accident
     fast. <br/>(3)  just console the injured person with soothing language.  '
@@ -312,14 +318,14 @@
     slippers.  <br/>(3)  should dress neatly.  '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'When going shopping, motorcyclists should <br/>(1)  park in designated
     areas and walk to do their shopping. <br/>(2)  stop by roadside and call for store
     clerks to deliver goods directly to them. <br/>(3)  Park on the sidewalk or in
     front of the store they want to shop in.  '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'When approaching other vehicles on a narrow road, drivers should <br/>(1)  force
     the other vehicle to yield the road. <br/>(2)  leave enough room on the road to
     let others pass by. <br/>(3)  honk their horn to warn others to get out of the
@@ -333,7 +339,7 @@
     and give them a signal to let them know it''s okay to pass you.  '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'When a vehicle approaches from the opposite direction at night and the
     driver is requesting for the other vehicle to yield, <br/>(1) use high beam light,
     honk loudly to warn the vehicle and then speed through <br/>(2) stop immediately,
@@ -341,7 +347,7 @@
     low beam lights and slow down to pass each other. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'Although everyone is busy in today''s society, what should be top priority
     for motorcyclists? <br/>(1)  Put safety before time. <br/>(2)  Traffic infrastructure.
     <br/>(3)  The appearance of their motorcycle.  '
@@ -386,37 +392,37 @@
     same.  <br/>(2)  becomes shorter. <br/>(3)  becomes longer.  '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'As speed increases, the force of the impact in a crash <br/>(1)  becomes
     smaller. <br/>(2)  becomes greater. <br/>(3)  remains unchanged.  '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'When you are riding behind other vehicles at night, you should <br/>(1)  use
     your low-beam headlight. <br/>(2) use your high-beam headlight.  <br/>(3) turn
     off your headlight.  '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'When riding a motorcycle in a tunnel, the driver should <br/>(1)  not
     turn on their headlight. <br/>(2)  turn on their headlight and speed up. <br/>(3)  turn
     on their headlight and slow down.  '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'When the traffic light turns red, if there are no pedestrians on the
     crosswalk and not many cars, drivers <br/>(1)  may proceed straight forward. <br/>(2)  may
     turn right. <br/>(3)  may not move at all.  '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'I am a good rider and always abide by the traffic rules. I expect police
     officers _______in order to maintain traffic safety. <br/>(1)  to enforce the
     traffic law <br/>(2)  not to enforce the traffic law <br/>(3)  to only inspect
     cars, but not to punish traffic violators.  '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'Everybody is responsible for traffic safety. Therefore, in addition to
     obeying the traffic rules, when we see a traffic violation or traffic accident,
     we should <br/>(1)  immediately report it to the police and provide assistance
@@ -435,12 +441,12 @@
     branches nearby.  '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'Motorcycles: <br/>(1)  can legally pull a cart or trailer; <br/>(2)  cannot
     legally pull a cart or trailer; <br/>(3)  there is no law regulating this.  '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'You are approaching a railroad crossing and a number of other motorcycles
     are speeding across the tracks as the guard gate is lowering, what should you
     do? <br/>(1)  Follow the other motorcycles and speed over the tracks quickly.
@@ -449,14 +455,14 @@
     and then wait for the guard gate to lift before crossing the tracks.  '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'Most accidents happen due to human factors, especially traffic violations
     and neglence. Therefore, which area must be improved first? <br/>(1) Improve education
     and training on traffic regulations so driving ethics can be improved <br/>(2)
     Improve driving skills <br/>(3) Promote the knowledge on vehicle maintenance. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'Drunk drivers will  develop "tunnel vision," which creates the effect
     of driving in a tunnel. The driver can only see the  light at the end of the tunnel
     but the surrounding is pitch black. Therefore, while drunk driving, <br/>(1)  the
@@ -464,7 +470,7 @@
     the field of vision becomes narrower. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'While driving on a highway, the act of throwing trash, cigarette buds,
     or kindling on the road is <br/>(1) extremely unethical and dangerous <br/>(2)
     perfectly fine as long as I''m happy <br/>(3) necessary to keep the car clean.  '
@@ -482,13 +488,13 @@
     <br/>(3) NT $2,000,000. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'If caught speeding, <br/>(1)  the driver will be fined and get a traffic
     violation on their driving record. <br/>(2)  the driver''s vehicle registration
     will be suspended. <br/>(3)  the driver''s license will be suspended.  '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'Motorcyclists who do wheelies with only the back wheel touching the ground,
     erratically weaving in and out of traffic, or remove their muffler and in so doing
     cause an accident, will be <br/>(1)  given a verbal warning. <br/>(2)  fined and
@@ -501,20 +507,20 @@
     careful not to violate any rules in the future. <br/>(3)  stop driving.  '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'Ignoring the instructions given by a police officer or traffic controller
     will result in a <br/>(1)  one-month suspension of your driver''s license. <br/>(2)  two-month
     suspension of your driver''s license. <br/>(3)  being fined and receiving a traffic
     violation on your driving record.  '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'If you no longer need your license plates, <br/>(1)  you can use them
     on another vehicle. <br/>(2)  you have to return them to the local Motor Vehicle
     Registration Department. <br/>(3)  you may keep them.  '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'Those who possess a heavy motorcycle driver''s license, may also drive
     <br/>(1)  a light motorcycle. <br/>(2)  a small truck. <br/>(3)  a passenger car.  '
   answer: 1
@@ -525,7 +531,7 @@
     2 months <br/>(2) 3 months <br/>(3) 4 months. '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'If a driver falsely claims that they have lost their driver''s license
     and then obtains a new license from the Motor Vehicle Registration Department,
     what will happen to them? <br/>(1)  They will be fined. <br/>(2)  Their driver''s
@@ -539,13 +545,13 @@
     may produce a license plate.  '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'When a motorist does not yield to the pedestrians on a crosswalk as required
     by law and causes injuries or death, the criminal liability shall be increased
     by <br/>(1) 100% <br/>(2) 200% <br/>(3) 50%. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'When a driver does not yield when hearing the siren of a fire engine,
     ambulance, security vehicle, rescue vehicle or toxic chemical disaster response
     vehicle: <br/>(1)  the driver''s license will be suspended for three months; <br/>(2)  the
@@ -580,19 +586,19 @@
     <br/>(3)  may continue to use the damaged license.  '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'If a driver is caught speeding, the penalty shall be <br/>(1) a fine
     <br/>(2) a fine and one-month driving license suspension <br/>(3) a fine and 1
     demerit point. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'When pedestrians are crossing the crosswalk, <br/>(1) stop and yield
     to the pedestrians <br/>(2) honk and make the pedestrians make way <br/>(3) speed
     through it. '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'If a drunk driver causes serious injury or death, what is the penalty?
     <br/>(1)  Their driver''s license will be suspended; <br/>(2)  They will be fined,
     their driver''s license will be cancelled, and they will be permanently barred
@@ -608,27 +614,27 @@
     officer; <br/>(3)  The vehicle registration will be suspended.  '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'What is the traffic penalty for speeding on a motorcycle? <br/>(1)  The
     rider will be fined and receive traffic violation points on their driving record.
     <br/>(2)  The vehicle registration will be suspended. <br/>(3)  The driver''s
     license will be suspended.  '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'If a driver lends their driver''s license to another person, how long
     will their driver''s license be suspended? <br/>(1)  1 month. <br/>(2)  2 months.
     <br/>(3)  3 months.  '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'What is the penalty for weaving in and out of traffic or doing a wheelie
     on a motorcycle? <br/>(1)  The rider will be fined and their driver''s license
     will be cancelled. <br/>(2)  Their driver''s license will be suspended.  <br/>(3)  The
     rider will be fined.  '
   answer: 1
   tags:
-  - hard
+  - impossible
 - question: 'If a driver is convicted and imprisoned for using their motorcycle to
     commit a criminal act, what will happen to them in addition to having their driver''s
     license cancelled? <br/>(1)  They will not be eligible to apply for another driver''s
@@ -639,7 +645,7 @@
     by the government).  '
   answer: 3
   tags:
-  - impossible
+  - hard
 - question: 'If a driver violates traffic rules and thus causes serious injury or
     death, how long will their driver''s license be suspended? <br/>(1)  3 to 6 months.
     <br/>(2)  1 to 2 months. <br/>(3)  2 to 4 months.  '
@@ -653,14 +659,14 @@
     <br/>(3) one-year license suspension. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'If  motorcyclists are caught using hand-held cell phones, computers,
     or other similar devices to call, talk, digitally communicate, or do other actions
     that might hinder driving safety, how much is the fine?  <br/>(1)  1,000 NTD <br/>(2)  1,500
     NTD <br/>(3)  2,000 NTD.  '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'When motorists receive more than 6 demerit points in 6 months, the driving
     license will be suspended for <br/>(1) 6 months <br/>(2) 1 month <br/>(3) 1 year. '
   answer: 2
@@ -690,7 +696,7 @@
     regulating this.  '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'Drivers are required to pass other vehicles <br/>(1)  on the right. <br/>(2)  on
     the left. <br/>(3)  at their own discretion.  '
   answer: 2
@@ -701,7 +707,7 @@
     to use it.  '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'At a pedestrian crosswalk, you must <br/>(1)  slow down and yield to
     any pedestrians. <br/>(2)  tap your horn and pass over the crosswalk. <br/>(3)  speed
     up and pass over the crosswalk quickly.  '
@@ -718,7 +724,7 @@
     <br/>(1)  1 passenger. <br/>(2)  2 passengers. <br/>(3)  3 passengers.  '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'When driving on a two-way road with fast and slow-vehicle lanes but doesn''t
     have traffic signals or markings, motorcyclists must <br/>(1)  stay in the inner
     lane. <br/>(2)  stay in either the outer lane or slow-vehicle lane.  <br/>(3)  There
@@ -736,24 +742,24 @@
     <br/>(1)  head. <br/>(2)  shoulders. <br/>(3)  waist.  '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'When carry cargos on a motorcycle, the width shall not exceed the edge
     of the handlebar by <br/>(1) 10 centimeters <br/>(2) 2 meters <br/>(3) a meter
     and a half. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'Prior to driving a motorcycle, the rider <br/>(1)  should check all working
     parts. <br/>(2)  does not have to check if it''s a good car. <br/>(3)  There is
     no law regulating this.  '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'The weight of goods loaded on a heavy motorcycle may not exceed <br/>(1)  50
     kilograms. <br/>(2)  80 kilograms. <br/>(3)  90 kilograms.  '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'The speed limit of a motorcycle depends on the information on the signs
     or markings. However, on roads without signs, markings or broken yellow lines,
     the speed limit shall not exceed <br/>(1) 20km <br/>(2) 30km <br/>(3) 40km. '
@@ -764,32 +770,32 @@
     wear a safety helmet. <br/>(3)  are not required by law to wear a safety helmet.  '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'The speed limit for a motorcycle is based on the signs and markings on
     the road, but when a road has no signs or markings, the speed limit should not
     exceed <br/>(1) 50 km <br/>(2) 40 km <br/>(3) 30 km. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'In urban areas with sufficient lighting, motorcyclists may <br/>(1)  use
     their low- beam headlight. <br/>(2)  use their high-beam headlight. <br/>(3)  turn
     off their headlight.  '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'When driving, motorcyclists <br/>(1)  must carry a full set of tools
     with them. <br/>(2)  do not have to bring any tools with them. <br/>(3)  There
     is no law regulating this.  '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'Motorcyclists traveling in the same lane, <br/>(1)  must keep a safe
     braking distance from the motorcycle in front of them. <br/>(2)  do not have to
     maintain a safe driving distance. <br/>(3)  can drive side-by-side with other
     motorcyclists.  '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'When  travelling  downhill,  motorcyclists  <br/>(1)   may  turn off
     their engine.  <br/>(2)  may not turn off their engine. <br/>(3)  There is no
     law regulating this.  '
@@ -807,7 +813,7 @@
     is not allowed. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'On a one-way road without any lane lines separating the fast and slow
     lanes, <br/>(1)  motorcyclists may use either the far right lane or the far left
     lane. <br/>(2)  motorcyclists may use the far right lane only. <br/>(3)  motorcyclists
@@ -821,19 +827,19 @@
     markings, so they may simply ignore them.  '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'On pedestrian crosswalks, <br/>(1)  parking is permitted. <br/>(2)  no
     stopping is permitted. <br/>(3)  There is no law regulating this.  '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'The speed limit of a motorcycle is based on the limit shown on the signs.
     If there are no signs or markings, and if the motorcycle is traveling on the slow
     lane of a road separated into fast lane and slow lane, the speed limit may not
     exceed <br/>(1) 40km <br/>(2) 50km <br/>(3) 60km. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'Each tap on your horn must <br/>(1)  not be longer than 2 seconds. <br/>(2)  not
     be longer than 1 second. <br/>(3)  not be longer than half a second.  '
   answer: 3
@@ -844,7 +850,7 @@
     can drive as long the car is not going too fast. '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'Upon hearing the siren of a fire engine, ambulance, security vehicle,
     rescue vehicle or toxic chemical disaster response vehicle, no matter where it
     is coming from, a driver is: <br/>(1)  not required to yield; <br/>(2)  not required
@@ -864,7 +870,7 @@
     ahead. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'Goods loaded on a motorcycle may not extend beyond the rear-wheel axle
     by more than <br/>(1)  half a meter. <br/>(2)  1 meter. <br/>(3)  3 meters.  '
   answer: 1
@@ -875,12 +881,12 @@
     <br/>(3) stay in the center of the inner lane. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'Goods loaded on a light motorcycle may not be heavier than <br/>(1)  40
     kilograms. <br/>(2)  50 kilograms. <br/>(3)  20 kilograms.  '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'Those who fail the motorcycle road test may take the same test again
     after <br/>(1)  7 days. <br/>(2)  15 days. <br/>(3)  30 days.  '
   answer: 1
@@ -898,7 +904,7 @@
     concerning passing. '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'If the address of a motorcycle owner and driver changes, they: <br/>(1)  are
     required to register any change of address at the Motor Vehicle Registration Department;
     <br/>(2)  do not have to ever register any change of address; <br/>(3)  are required
@@ -912,14 +918,14 @@
     <br/>(3)  the vehicle registration.  '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'If your motorcycle has not been inspected and registered, so you don''t
     have a license plate for your motorcycle, <br/>(1)  you may not drive your motorcycle.
     <br/>(2)  you may drive your motorcycle. <br/>(3)  you may drive your motorcycle
     in suburban areas only.  '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'A license plate <br/>(1)  has to be installed in accordance with law.
     <br/>(2)  can be installed anywhere on the vehicle as long as the license plate
     number is visible. <br/>(3)  There is no law regulating this.  '
@@ -931,26 +937,26 @@
     suspended? <br/>(1)  One month. <br/>(2)  Two months. <br/>(3)  Three months.  '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'According to the regulation, motorists with a driving license for an
     ordinary heavy-uty motorcycle may not ride a two-wheel motorcycle with an engine
     capacity <br/>(1) between 50 cc and 250 cc <br/>(2) less than 50 cc <br/>(3) above
     250 cc. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'When a motorist takes the alcohol breathing test, the alcohol concentration
     may not exceed <br/>(1) 0.15 mg <br/>(2) 0.25 mg <br/>(3) 0.55 per litter.  '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'Which of the following are extremely dangerous areas, and lingering in
     these areas should be avoided? <br/>(1)  Roads which have small rocks falling;
     <br/>(2)  Rockfall catchment fences or disfigured and twisted road railings; <br/>(3)  All
     of the above.  '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'Which of the following weather conditions is known to cause road accidents,
     and so drivers should be aware? <br/>(1)  Tidal waves; <br/>(2)  Precipitation;
     <br/>(3)  Varying temperature.  '
@@ -998,18 +1004,18 @@
     distance of five meters; <br/>(3)  a distance of ten meters.  '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'Which of the following is not a necessary identification for a rider
     to carry when riding a motorcycle? <br/>(1) motorcycle driving license  <br/>(2)
     motorcycle registration <br/>(3) points collecting membership card. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'The weight limit regulation for the cargo of general heavy motorcycles
     is: <br/>(1)   eighty kilograms; <br/>(2)  forty kilograms; <br/>(3) thirty kilograms.  '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'Which of the following is incorrect about carrying cargos on the motorcycle?
     <br/>(1) it is ok to carry an item that is higher than the driver''s shoulders
     <br/>(2) the length should not exceed 10 cm from the outer edges of the handlebar
@@ -1017,19 +1023,19 @@
     than 50 cm from the rear wheelbase. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'What should motorcyclists carry when riding their motorcycle? <br/>(1)  Their
     driver''s license, vehicle registration, and mandatory insurance card. <br/>(2)  Their
     I.D. card. <br/>(3)  Their national health insurance card.  '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: ' Since June 15, 2006, when the ownership of a vehicle manufactured  5
     years ago is being transferred, the owner should apply for  <br/>(1) unscheduled
     inspection <br/>(2) periodic inspection <br/>(3)  inspection for modifications. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'When a person is taking the driver exam for riding a light-duty motorcycle
     or an ordinary heavy-duty motorcycle, the person must be at least <br/>(1) 16
     years old <br/>(2) 18 years old <br/>(3) 20 years old.   '
@@ -1041,7 +1047,7 @@
     the person passed the sobriety test by walking in a straight line.  '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'When driving on a two lane road, and another car or motorcycle is ahead
     of you on the same lane, <br/>(1) honk and make it move to the curb lane <br/>(2)
     pass it from the side <br/>(3) follow it, but don''t pass it. '
@@ -1055,13 +1061,13 @@
     vehicle has the right-of-way.   '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'When a motorcycle is meeting a car or another motorcycle, the distance
     between should be no less than <br/>(1) 2 meter <br/>(2) 1 meter <br/>(3) half
     of a meter. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'When you arrive at an intersection without signs, marking or light signals
     to divide the branch road and main road, <br/>(1) the vehicle on the road with
     more lanes should stop and let the vehicle on the fewer lanes have the right-of-way
@@ -1069,7 +1075,7 @@
     on the road with more lanes have the right-of-way <br/>(3) all of the above. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'On a road separated by a traffic island into fast lane and curb lane,
     the vehicle in the curblane should not <br/>(1) turn left <br/>(2) turn right
     <br/>(3) turn left and right. '
@@ -1087,7 +1093,7 @@
     agency <br/>(3) not specified. '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'When a person rides a motorcycle while the driving license is suspended,
     in addition to being fined and banned from driving, other penalty includes <br/>(1)
     demerit points <br/>(2)  a  violation record <br/>(3) license revocation. '
@@ -1100,13 +1106,13 @@
     above.  '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'Forcing other vehicles to yield with reckless driving such as switching
     lanes constantly or other inappropriate methods shall result in <br/>(1) a fine
     <br/>(2) driving license suspension <br/>(3) a fine and driving license revocation. '
   answer: 3
   tags:
-  - medium
+  - impossible
 - question: 'In a non-emergency situation, when a driver makes emergency stops or
     temporary stops in the middle of the road and cause a traffic accident, the penalty
     for the driver will be  <br/>(1) a fine <br/>(2) license suspension <br/>(3) a
@@ -1119,13 +1125,13 @@
     penalties. '
   answer: 2
   tags:
-  - impossible
+  - hard
 - question: 'Which of the following may not participate in a driving license test?
     <br/>(1) People who suffer from mental illnessnes <br/>(2) A person with epilepsy
     <br/>(3) All of the above. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'Before starting to drive, a driver should <br/>(1) honk <br/>(2) use
     the turn signal and then drive into a lane as soon as possible <br/>(3) use the
     turn signal and check the surrounding for obstacles, vehicles or pedestrians.   '
@@ -1150,12 +1156,12 @@
     20 meters <br/>(3) 30 meters.   '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'When coming near a crosswalk without traffic signals or signs, <br/>(1)
     accelerate <br/>(2) slow down <br/>(3) not specified. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'When should you turn on the headlights? <br/>(1) When it is foggy or
     rainy <br/>(2) When it is dark or gloomy <br/>(3) All of the above. '
   answer: 3
@@ -1167,14 +1173,14 @@
     from driving <br/>(3) all of the above. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'When a license plate is dirty, unclear, or partially blocked by foreign
     objects, and it is not caused by rain, snow or mud on the road while traveling,
     the owner will <br/>(1) be fined and ordered to clean it <br/>(2) banned from
     driving <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - impossible
 - question: 'If a person uses forged, altered, or another person''s driving license
     to drive a car or a motorcycle, <br/>(1) the driver will  be fined and banned
     from driving immediately <br/>(2) the driver must participate in  driver safety
@@ -1182,7 +1188,7 @@
     <br/>(3) All of the above. '
   answer: 3
   tags:
-  - impossible
+  - medium
 - question: 'A driver who passes by a roadside alcohol test station set by the law
     enforcement agency but does not stop for or refuse the alcohol test, <br/>(1)
     the driver will be fined, and the vehicle will be impounded <br/>(2) the driver
@@ -1196,7 +1202,7 @@
     <br/>(3) not specified. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'When a person drives on a road with signs for curved road, downhill or
     uphill, narrow bridge, tunnel, or under construction, but does not slow down,
     the penalty shall be <br/>(1) a fine <br/>(2)  1 demerit point <br/>(3) onemonth
@@ -1249,20 +1255,20 @@
     All of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'The penalty for a vehicle owner who did not pay the premium for the mandatory
     liability insurance before the due date specified in the Compulsory Automobile
     Liability Insurance Law is <br/>(1) one-month driving license suspension <br/>(2)
     enforcement through legal measures <br/>(3) all of the above. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'The penalty for a person driving a vehicle that is registered as a scrap
     vehicle is  <br/>(1) a fine <br/>(2) being banned from driving and the vehicle
     will be impounded <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'If a license plate is missing, and the owner does not apply for a replacement
     even after being reported, the penalty shall be <br/>(1) a fine <br/>(2) being
     banned from driving <br/>(3) all of the above. '
@@ -1275,13 +1281,13 @@
     a fine <br/>(2) the vehicle being impounded <br/>(3) 1 demerit point. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'Which of the following provides information on warning, restriction,
     and instruction to a driver and a pedestrian? <br/>(1) Road markings and lines
     <br/>(2) Road signs <br/>(3) All of the above. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'A traffic accident means a person is injured or killed on the road by
     which of the following? <br/>(1) Automobile <br/>(2) Motor vehicle <br/>(3) All
     of the above. '
@@ -1292,7 +1298,7 @@
     More than 3 deaths  <br/>(2) Under 10 injured and deaths <br/>(3) Under 14 injured. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'When vehicles involved in traffic accidents are yet to be examined for
     evidence, the police <br/>(1) shall not detain the vehicle <br/>(2) shall not
     detain the vehicle for more than one month <br/>(3) should not detain the vehicle
@@ -1311,33 +1317,33 @@
     the vehicle <br/>(3) drive slowly. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'When handling cases related to traffic violations, the procedure for
     sending related documents is based on which of the following?  <br/>(1) Civil
     Code <br/>(2) Criminal Code <br/>(3) Administrative Procedure Act. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'The inspection and documentation of traffic violations is not conducted
     by which of the following? <br/>(1) Traffic police <br/>(2) Legally designated
     traffic officers <br/>(3) The district court judge. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'When an individual disobeys the order and escapes, the traffic police
     or traffic officer on duty during inspection should <br/>(1) not chase after the
     individual to avoid danger <br/>(2)  chase after the escaped individual <br/>(3)
     fire warning shots into the sky. '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'When an individual is fined for violations of traffic control regulations
     and unable to pay the fine in full, <br/>(1) the driving license will be suspended
     for 1 to 3 months <br/>(2)  deposit an item to use as collateral <br/>(3) use
     something as a collateral. '
   answer: 3
   tags:
-  - hard
+  - impossible
 - question: 'Which of the following is considered a major traffic accident? <br/>(1)
     The death toll in the accident exceeds 3 people, the number of people injured
     and killed exceeds 10, or more than 15 people are injured <br/>(2) The hazardous
@@ -1345,7 +1351,7 @@
     on a vehicle is leaking <br/>(3) All of the above. '
   answer: 3
   tags:
-  - impossible
+  - hard
 - question: 'How many days after an accident can the involved parties or stakeholders
     request for viewing or for the police to provide related information? <br/>(1)
     Apply at the scene of the accident <br/>(2) 7 days after the accident, request
@@ -1358,7 +1364,7 @@
     regulations? <br/>(1) Bicycle <br/>(2) Electric bicycle  <br/>(3) All of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'Which of the following color is correct for the motorcycle brake lights?
     <br/>(1) Red <br/>(2) Orange <br/>(3) Yellow. '
   answer: 1
@@ -1375,7 +1381,7 @@
     yellow <br/>(2) blue <br/>(3) not specified. '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'Which of the following statement about the brake lights is incorrect?  <br/>(1)
     The color should be light yellow <br/>(2) When the brake is being used, the light
     should be continuous, not blinking <br/>(3) The color should be red. '
@@ -1386,13 +1392,13 @@
     <br/>(3) orange.  '
   answer: 3
   tags:
-  - easy
+  - impossible
 - question: 'What is the required vision for the driving license exam? <br/>(1) 0.5
     for uncorrected vision for each eye and 0.6 for both eyes <br/>(2) 0.6 for corrected
     vision for each eye and 0.8 for both eyes <br/>(3) All of the above. '
   answer: 3
   tags:
-  - impossible
+  - hard
 - question: 'What is the required diameter for the tires of a small light-duty motorcycle?
     <br/>(1) Between 300mm and 420mm <br/>(2) Between 200mm and 400mm <br/>(3) Between
     250mm and 350mm. '
@@ -1409,20 +1415,20 @@
     two different colors. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'The protective insulation for the exhaust pipe on a motorcycle <br/>(1)
     does not need to be installed because it does not affect vehicle  performances
     <br/>(2) can either be installed or not installed <br/>(3) should be installed
     to avoid burning other people.  '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'When checking tires of a motorcycle, <br/>(1) it is not necessary when
     everything seems normal <br/>(2) check the tire tread, tire pressure and deformations
     before riding <br/>(3) there is no requirement. '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'When a motorcycle rider is caught drunk driving, which of the following
     violations will further constitute a penalty involving a NT$90,000 fine, three-year
     driver''s license revocation and mandatory driver safety courses? <br/>(1)  Get
@@ -1431,7 +1437,7 @@
     the above. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'When a motorcycle rider is caught for drunk driving and repeat the offense
     again in certain number of years, the individual is subject to a fine of NT$ 90,000,
     3-year drivin license revocation, and  4 hours of mandatory driver safety courses.
@@ -1445,20 +1451,20 @@
     feet. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'When approaching an intersection on a motorcycle, which of the following
     is a traffic violation? <br/>(1) Speed through the intersection when the light
     has turned red <br/>(2) Make a right turn on a red light <br/>(3) All of the above. '
   answer: 3
   tags:
-  - medium
+  - impossible
 - question: 'Under what circumstances can a motorcycle rider use a cell phone, computer,
     or other electronic devices for calling and digital communication? <br/>(1) When
     riding the motorcycle <br/>(2)  When waiting for the red light to turn green <br/>(3)
     When the motorcycle is parked on the roadside. '
   answer: 3
   tags:
-  - impossible
+  - easy
 - question: 'When the use, color or equipment on the motorcycle is modified, such
     as the style, body and headlight, the owner must apply for such changes at the
     motor vehicle department. Which one of the following will be punished in cases
@@ -1466,14 +1472,14 @@
     shop that made the modification.  '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'In which of the following situations will a person be banned from driving
     a motorcycle? <br/>(1) During the driving license suspension <br/>(2) When a person
     passes the written and driving exams but has not attended the traffic safety courses
     for the driving license <br/>(3) All of the above. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'Which of the following is not the situation where a motorcycle headlight
     is required to be turned on? <br/>(1) When going through a tunnel at night <br/>(2)
     In fog, rain, snow, dim sky or poor visibility <br/>(3) When passing through city
@@ -1487,7 +1493,7 @@
     km. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'Mandatory liability insurance must be purchased for all motorcycles in
     use. When the owner is applying to replace the license plate, registration, or
     transfer of ownership, the insurance should still be valid for at least <br/>(1)
@@ -1501,19 +1507,19 @@
     There shall be a fine. '
   answer: 2
   tags:
-  - hard
+  - impossible
 - question: 'When a person under the age of 18 gets caught riding a motorcycle without
     a driving license, who must attend driver safety courses?  <br/>(1) The rider
     only <br/>(2) The rider''s parents or legal guardian <br/>(3) The rider, the parents,
     or the legal guardians . '
   answer: 3
   tags:
-  - impossible
+  - hard
 - question: 'The  side  mirrors  on  the  motorcycle  are  for <br/>(1) decoration
     <br/>(2) makeup mirror <br/>(3) traffic safety. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'If you are afraid  that others cannot hear you honk, <br/>(1) make the
     horn as loud as possible <br/>(2) install different types of air horns <br/>(3)
     comply with the factory specification. '
@@ -1532,7 +1538,7 @@
     day the motorcycle is reported stolen at the police station. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'How many meters before turning at the intersection should the driver
     use the turn signal to warn others? <br/>(1) 100 meters <br/>(2) 30 meters <br/>(3)
     10 meters. '
@@ -1543,7 +1549,7 @@
     <br/>(3) all of the above. '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'When a driver''s physical condition has changed and is no longer fit
     for having a driving license, <br/>(1) return the driving license to the local
     motor vehicle department <br/>(2) it is not necessary to return the license <br/>(3)
@@ -1551,7 +1557,7 @@
     is not necessary to return the driving license. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'When a person fails the written exam for the motorcycle driving license,
     the person shall not take the road test. The passing grades are <br/>(1) 80 points
     for traffic rules and 70 points for the road test <br/>(2) 85 points for traffic
@@ -1568,13 +1574,13 @@
     sibgle eye vision . '
   answer: 3
   tags:
-  - hard
+  - impossible
 - question: 'If a person passed the driver''s test, but has not yet received the license,
     the person <br/>(1) may not drive a car <br/>(2) can drive a car <br/>(3) can
     drive if the person has good driving skills . '
   answer: 1
   tags:
-  - impossible
+  - easy
 - question: 'Which of the following is incorrect about applying for and taking the
     driver''s exam through improper means or against the regulations? <br/>(1) If
     the driving license is already issued, it shall be invalid and should be returned
@@ -1599,7 +1605,7 @@
     all of the above. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'A motorcycle rider should follow the signs or markings on a motorcycle
     lane. When merging from 2 lanes into 1 in an area without signs or markings, the
     vehicle that is going straight has the right-of-way. If there is no straight lane,
@@ -1615,14 +1621,14 @@
     can turn left directly from the fast lane <br/>(3) turn left from the other lanes.   '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'When arriving at an area with signs or marking for a curve, slope, bridge,
     tunnel, intersection, or construction, or an area with a level crossing or construction
     site, <br/>(1) it is ok to pass another vehicle <br/>(2) honk to warn others and
     pass <br/>(3) passing is not permitted. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'When encountering incoming cars from the opposite direction or two cars
     in a row in an area with school or hospital signs or no passing sign or markings,
     <br/>(1) it is ok to pass <br/>(2) honk to warn others and pass <br/>(3) passing
@@ -1644,7 +1650,7 @@
     branch road <br/>(3) all of the above. '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'When testing the car speed with a stationary or non-stationary scientific
     equipment and a vehicle is caught as traveling at a speed high than the maximum
     or lower than the minimum speed, how far ahead should the sign for such testing
@@ -1652,7 +1658,7 @@
     and 400 meters <br/>(3) Between 300 meters and 500 meters. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'When a person penalized for violating Article 8 or Item 5 of Article
     37, Road Traffic Management and Penalty Act wishes to make an appeal, the agency
     that issued such penalty shall be the defendant. The appeal shall be filed at
@@ -1681,14 +1687,14 @@
     <br/>(2)  3-month driver''s license suspension; <br/>(3)  driver''s license revocation. '
   answer: 3
   tags:
-  - hard
+  - impossible
 - question: 'When a driver tailgates, cuts in and changes lanes through other inappropriate
     means to force other vehicles to yield, in addition to getting a fine and being
     banned from driving, the license plate will be suspended for <br/>(1) 3 months
     <br/>(2) 6 months <br/>(3) 12 months. '
   answer: 1
   tags:
-  - impossible
+  - hard
 - question: 'When a driver hits and runs, the driver''s license will be revoked for:
     <br/>(1)  1 year; <br/>(2)  2 years; <br/>(3)  3 years. '
   answer: 3
@@ -1706,19 +1712,19 @@
     <br/>(3) The motorcycle shop.  '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'After January 1st, 2013, is it required to renew the registration for
     a motorcycle? <br/>(1) Yes <br/>(2) No <br/>(3) Only when the motorcycle is more
     than 10 years old. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'If a motorcycle is no longer operable, the owner should go to the motor
     vehicle department to register for <br/>(1) transfer of ownership <br/>(2) suspension
     <br/>(3) scrapped vehicle. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'Which agency should a person visit to apply for change of color for the
     vehicle? <br/>(1) The shop where this motorcycle was purchased  <br/>(2) Motor
     vehicle department <br/>(3) Environmental protection agency. '
@@ -1742,25 +1748,25 @@
     <br/>(2) the vehicle to be scrapped <br/>(3) transferring ownership. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'Which of the following is incorrect about the equipment on a  motorcycle?
     <br/>(1) A horn that plays different tunes may not be installed <br/>(2) The side
     mirrors may not be removed <br/>(3) The installation of a mudguard is not mandatory. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'How many years after the motorcycle is manufactured, is it required to
     go through unscheduled inspection during transfer of ownership?  <br/>(1) 5 years
     <br/>(2) 7 years <br/>(3) 10 years. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'Which of the following is incorrect about the license plate? <br/>(1)
     It should not be forged, altered or switched with another person''s plate <br/>(2)
     It may not be sold privately <br/>(3) It can be lent to others. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'Which of the following regulations about the motorcycle license plate
     is incorrect? <br/>(1) It should be placed on a visible spot on the back of the
     motorcycle <br/>(2) It may not be altered, damaged , smeared or covered with other
@@ -1784,13 +1790,13 @@
     is dim or when the visibility is bad, use the fog lights. '
   answer: 3
   tags:
-  - easy
+  - impossible
 - question: 'When there are no guards, gates, alarms, or light signals at the level
     crossing, the driver should stop, look, and listen how many meters before reaching
     the crossing? <br/>(1) 1 to 2 meters <br/>(2) 3 to 6 meters <br/>(3) Not specified. '
   answer: 2
   tags:
-  - impossible
+  - hard
 - question: 'Which of the following is incorrect when coming to an level crossing  with
     a gate or a guard? <br/>(1) If the alarm goes off, the lights are flashing, the
     gate is lowering, or if there is a guard signaling you to stop, stop and wait
@@ -1800,12 +1806,12 @@
     as soon as possible. It is not necessary to check the sides first. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'A motorcycle can be registered as suspended for no more than <br/>(1)
     1 year <br/>(2) a year and a half <br/>(3) 2 years. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'A vehicle that is registered as scrapped <br/>(1) may not be reinspected
     for another license plate <br/>(2) may be inspected for another license plate
     once it is repaired <br/>(3) not specified. '
@@ -1817,13 +1823,13 @@
     inspection <br/>(3) apply for license plate inspection. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'After losing the driving license, <br/>(1) retake the driving license
     exam <br/>(2) apply for a new license at a motor vehicle department <br/>(3) void
     the license on the newspaper. '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'When a driving license is damaged or smudged, and the information is
     not legible, <br/>(1) apply for a replacement <br/>(2) retake the driver exam
     <br/>(3) it is not necessary to replace it.  '
@@ -1866,23 +1872,23 @@
     to make the vehicle slow down or yield. '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'On a busy city street, <br/>(1) honk twice with long sounds and pass  <br/>(2)
     honk twice with short sounds and pass <br/>(3) do not honk or pass. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'When a motorist sees signs or markings for the level crossing, reduce
     the speed to <br/>(1) 15 km or less <br/>(2) 20 km or less <br/>(3) 30 km or less. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'In the No Parking zone, parking is prohibited from <br/>(1) 7:00 a.m.
     to 8:00 p.m. <br/>(2) 7:00 p.m. to 8:00 a.m <br/>(3) 24 hours a day with signs
     and marking when the time period is extended or shortened.  '
   answer: 1
   tags:
-  - hard
+  - impossible
 - question: 'In a No Parking zone, <br/>(1) temporary parking is not permitted, but
     regular parking is allowed <br/>(2) regular parking is not permitted, but temporary
     parking is allowed <br/>(3) regular parking and temporary parking are both not
@@ -1902,7 +1908,7 @@
     and move the vehicle to the side of the road <br/>(3) notify the insurance company. '
   answer: 2
   tags:
-  - impossible
+  - hard
 - question: 'When a driver leaves markings of the vehicle positions and evidences
     on the ground after an accident, under which of the following circumstances should
     the vehicles be moved to the side of the road to keep the traffic clear? <br/>(1)
@@ -1910,7 +1916,7 @@
     <br/>(3) When death occurs. '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'A lane is for <br/>(1) pedestrians <br/>(2) vehicles <br/>(3) both pedestrians
     and vehicles. '
   answer: 2
@@ -1920,7 +1926,7 @@
     shall be <br/>(1) a ticket <br/>(2) license suspension <br/>(3) a warning. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'If a motorcycle rider causes an accident without injuries or death with
     the motorcycle still being operational, but the rider does not mark the location
     of the motorcycle and does not move it to the side of the road, therefore blocking
@@ -1928,7 +1934,7 @@
     a fine <br/>(3) license suspension.  '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'When a driver refuses to take the mandatory driver safety courses without
     justification, the person will receive a NT $1,800 fine. If the person still does
     not participate in  the course 6 months after the notification, the person <br/>(1)
@@ -1936,21 +1942,21 @@
     revoked <br/>(3) will get the driving license suspended. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'In a hit and run case, if the person is notified and does not show up
     to give an explanation, or the owner of the vehicle does not provide the driver''s
     information, the person will <br/>(1) get the license plate revoked  <br/>(2)
     get the license plate suspended <br/>(3) get the driving license suspended. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'When an owner or rider of a motorcycle would like to apply for registration
     or changes in registration, the person <br/>(1) should first pay off all the fines
     from previous violations <br/>(2) does not need to pay off all the fines from
     previous violations <br/>(3) It is not specified. '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'In a traffic violation case, the public can provide details of facts
     or evidence of the violation to the motor vehicle department or the police. Once
     the evidence is proven valid, the offender will be penalized. However, how many
@@ -1958,7 +1964,7 @@
     be given? <br/>(1) 7 days <br/>(2) 30 days <br/>(3) 60 days. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'The height of a motorcycle should not exceed <br/>(1) 2 meters <br/>(2)
     2.5 meters <br/>(3) 3 meters. '
   answer: 1
@@ -1969,7 +1975,7 @@
     car go first. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'The traffic lights are to control : <br/>(1) movements <br/>(2) attention
     and stopping <br/>(3) signals for attention, movements, stopping, etc. '
   answer: 3
@@ -1988,7 +1994,7 @@
     the car going straight go first. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'On a road without a turning lane for motorcycles to make the left or
     right turn, when a vehicle traveling in the opposite direction is about to turn
     has changed into the same lane another vehicle is traveling, <br/>(1) the vehicle
@@ -1996,14 +2002,14 @@
     should go first <br/>(3) both vehicles should go at the same time. '
   answer: 2
   tags:
-  - hard
+  - impossible
 - question: 'Except for driving on a one-way street or designated fast lane, on a
     road that does not have broken yellow lines or double yellow solid line, the driver
     should <br/>(1) drive on the right side <br/>(2) drive on the left side <br/>(3)
     drive in the middle of the road. '
   answer: 1
   tags:
-  - impossible
+  - easy
 - question: 'When passing on a road without lane markings, a level crossing or a road
     with poor condition, a driver should <br/>(1) accelerate to speed through <br/>(2)
     slow down <br/>(3) maintain usual speed. '
@@ -2016,24 +2022,24 @@
     to let any car go first. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'On a road with signs for a curve, slope, bridge, tunnel or a level crossing,
     <br/>(1) it is ok to make a U-turn <br/>(2) slow down to 5km and it is ok to make
     a U-turn <br/>(3) U-turn is prohibited. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'Near an intersection or a bus stop, temporary parking is prohibited for
     <br/>(1) 10 meters <br/>(2)  20 meters <br/>(3) 30 meters. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'When passing through a road with school or hospital signs, <br/>(1) slow
     down and get ready to stop <br/>(2) honk more often so people will notice you
     <br/>(3) accelerate and speed through to prevent traffic jam. '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'On a road with a curve, slope, or narrow road ahead signs, <br/>(1)  speed
     through it to prevent traffic jam <br/>(2) when the vehicle ahead is too slow,
     honk to make it go faster <br/>(3) slow down and be prepared to stop. '
@@ -2051,7 +2057,7 @@
     <br/>(2) a fine <br/>(3) vehicle registration suspension. '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'If a driver parallel parks on a roadside, the fine will be: <br/>(1)  NT$1,200;
     <br/>(2)  NT$1,800; <br/>(3)  NT$2,400. '
   answer: 3
@@ -2069,7 +2075,7 @@
     distance when changing lane. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'When a driver is involved in an accident with no one injured or killed,
     the driver escapes from the scene and does not deal with the accident in accordance
     with the regulations, in addition to a fine, the driver <br/>(1) will get the
@@ -2077,7 +2083,7 @@
     will get the driving license revoked. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'When a driver is involved in an accident due to traffic violations and
     causes death, <br/>(1) the person''s registration will be suspended <br/>(2) the
     person''s driving license will be suspended <br/>(3) the person''s driving license
@@ -2153,13 +2159,13 @@
     with suspension of the driving license <br/>(3) is not specified. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'If a person is riding a motorcycle without a driving license, the person
     will be fined for <br/>(1) NT $300 to NT $600 <br/>(2) NT $ 3,600 to NT $7,200
     <br/>(3) NT $6,000 to NT $12,000. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'When a person drives on the fast lane in accordance with the regulation
     but causes dealth or injuries of others due to the neglence of another motorist
     or pedestrian, who enters the fast lane  against the regulation, the criminal
@@ -2167,13 +2173,13 @@
     stated <br/>(2) a lighter sentence <br/>(3) a heavier sentence. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'If a person who drives a car without a license or who  is  drunk  driving  causes  an  accident  which  leads  to
     injuries  or  death  of  others,  the  sentence  for  the criminal charges shall
     be increased by <br/>(1) 1/3 <br/>(2) 1/2  <br/>(3) double. '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'If a self-assembled vehicle is on the street without a license plate,
     or if a vehicle registered as scrapped is being operated, in addition to being
     banned from the road, the vehicle will also be <br/>(1) impounded and the driver
@@ -2181,7 +2187,7 @@
     the fine is paid. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'Which of the following violation will result in punishments for the owner
     of the car? <br/>(1) Driving without a license <br/>(2) Drunk driving <br/>(3)
     Parking violations without the driver present.  '
@@ -2193,7 +2199,7 @@
     Speeding <br/>(2) Not keeping a safe distance <br/>(3) All of the above. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'When a person is reported to be speeding, under which of the following
     circumstances can the violation be reported repeatedly unless the violation occurs
     within a tunnel? <br/>(1) speeding for 4 minutes or more, or the vehicle has passed
@@ -2231,14 +2237,14 @@
     injured? <br/>(1) the neck <br/>(2) the spine <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'It is a top priority to keep the airway of an injured person clear during
     an emergency. However, if the injured suffers spinal injuries, which of the following
     method should be used to keep the person''s airway clear? <br/>(1) Jaw thrust
     maneuver <br/>(2) Chin-lift maneuver <br/>(3) Chin tilt head lift maneuver. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'Which is the correct location for performing chest compression? <br/>(1)
     On the outer edge of the sternum <br/>(2) On the upper edge of the sternum <br/>(3)
     Between the nipples on the central sternum. '
@@ -2251,7 +2257,7 @@
     the chest and can not speak. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'Which of the following situation requires the heimlich maneuver?  <br/>(1)
     When the person is in a coma <br/>(2) When a person might be choking <br/>(3)
     When a person is showing symptoms of myocardial infraction. '
@@ -2265,13 +2271,13 @@
     <br/>(3) Place the wounded area below the heart  to reduce bleeding. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'How long right after the heart stops should CPR ( cardiopulmonary resuscitation
     ) be performed to avoid permanent brain damage? <br/>(1)  Within 10-15 minutes
     <br/>(2) Within 8 to 10 minutes <br/>(3) Within 4 to 6 minutes.  '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'When using the heimlich maneuver, make a fist both your hands. On which
     part of the patient should the fist be placed? <br/>(1) The left to the navel
     <br/>(2) Below the navel <br/>(3) Between the navel and the sternum. '
@@ -2310,14 +2316,14 @@
     the hazardous environment.  Provide 100% oxygen for the person. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'Which of the following methods for checking the victim''s breathing during
     CPR ( cardiopulmonary resuscitation ) is incorrect? <br/>(1) Check whether the
     person''s chest is rising and sinking <br/>(2) Check whether the person can exhale
     <br/>(3) Check if there is a pulse. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'If a person is suffering bone fracture, which of the following first
     aid methods is incorrect? <br/>(1) Relocate the person with fractured bone, and  lay
     the person down in a comfortable position <br/>(2) Take care of the bleeding area
@@ -2344,7 +2350,7 @@
     halfway <br/>(2) The recovery position <br/>(3) Lay flat. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'When a person''s heartbeat and breathing have recovered after CPR ( cardiopulmonary
     resuscitation ), which of the following positions is the most appropriate for
     the person? <br/>(1) the recovery position <br/>(2) lay flat <br/>(3) sit up halfway. '
@@ -2364,24 +2370,24 @@
     <br/>(2) using hot water <br/>(3) cover the person with a blanket. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'When performing CPR ( cardiopulmonary resuscitation ), which of the following
     should you check first for every 2 minutes to evaluate the result? <br/>(1) breathing
     <br/>(2) pulse <br/>(3) consciousness . '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'What is the most effective artificial respiration method for an adult?  <br/>(1)
     mouth  to  nose  <br/>(2) breathe  air  in  from  a  distance <br/>(3) mouth to
     mouth. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'The CPR should be performed for how many continuous seconds once started?
     <br/>(1) 10 seconds <br/>(2) 13 seconds <br/>(3) 15 seconds . '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'During CPR ( cardiopulmonary resuscitation ), if you want to provide
     artificial respiration but are unable to make the air go through, what should
     you do? <br/>(1) clear the airway again and blow in another breath <br/>(2) give
@@ -2406,7 +2412,7 @@
     vein <br/>(2) the capillary <br/>(3) the aorta. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'When the bone fracture pierced through the skin, the first response is
     to <br/>(1) push the broken bone back into place <br/>(2) stop the bleeding <br/>(3)
     send the person to the hospital. '
@@ -2418,7 +2424,7 @@
     help increase driver vision on both sides. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'The functions of brake levers on a scooter type motorcycle (automatic
     motorcycle): <br/>(1) the right lever controls the front wheel brake, the left
     lever controls the rear wheel brake <br/>(2) the left lever controls the front
@@ -2426,12 +2432,12 @@
     the right levers both control the front and rear wheel at the same time. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'Prolonged usage will overheat the brake linings, which causes the brakes
     to <br/>(1) improve its function <br/>(2) decrease its function <br/>(3) no differences. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'When starting the motorcycle engine, first <br/>(1) use the headlight
     <br/>(2) turn on the warning lights <br/>(3) hold down the brake lever. '
   answer: 3
@@ -2441,26 +2447,26 @@
     to slow down <br/>(2) reduce the speed properly <br/>(3) accelerate properly. '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'If you are not using your vehicle for a long time, how often should you
     start the engine and let it run for 3 to 5 minutes to let the engine to maintain
     optimal condition? <br/>(1) on a quarterly basis <br/>(2) weekly <br/>(3) once
     per month. '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'The principle of driving safety is : <br/>(1) the slower the speed, the
     safer it will be <br/>(2) keep a safe distance from other vehicles ahead and on
     the sides <br/>(3) always follow the car ahead closely. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'When riding a motorcycle, how many meters of safety distance apart should
     the rider maintain from other vehicles? <br/>(1) over 0.5 meters <br/>(2) 1 meter
     <br/>(3) the space enough for you to pass other vehicles. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'When a motorcycle is near other vehicles parked along the side of the
     road, how much safe distance should the motorcycle maintain?  <br/>(1) enough
     distance to allow braking at any time <br/>(2) 1 meter (about the width of a door)
@@ -2474,14 +2480,14 @@
     pay attention to the surroundings. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'Proper riding posture is also one of the methods to maintain safe driving,
     when riding a motorcycle, <br/>(1) let the feet hang naturally <br/>(2) place
     the feet on the footboards <br/>(3) keep one foot hanging down and one foot on
     the footboard. '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'The faster the vehicle is traveling, the reaction distance for the driver
     will be : <br/>(1) longer <br/>(2) shorter <br/>(3) unchanged. '
   answer: 1
@@ -2504,51 +2510,51 @@
     again  <br/>(3) it doesn''t matter which side first. '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'The normal color for the exhaust from burning gasoline is <br/>(1) black
     <br/>(2) blue and white <br/>(3) colorless. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'If the exhaust of a motorcycle turns black, it is because <br/>(1) complete
     combustion of gasoline <br/>(2) incomplete combustion of gasoline <br/>(3) combustion
     of engine oil. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'If the spark plug on a motorcycle is defective, it will cause <br/>(1)
     weaker acceleration rate and excessive fuel consumption <br/>(2) difficulty in
     starting the motorcycle <br/>(3) all of the above. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'Making emergency brakes can make the wheels lock up, and the braking
     distance will  <br/>(1) be longer <br/>(2) be shorter <br/>(3) unchanged. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'Which gas from the motorcycle emissions is the main cause for global
     warming? <br/>(1) carbon monoxide <br/>(2) carbon dioxide <br/>(3) water vapor. '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'When a motorcycle enters a gas station for refueling, <br/>(1) it is
     ok to use the cell phone to make and receive phone calls <br/>(2) it is ok to
     receive but not make phone calls <br/>(3) using cell phones is prohibited. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'When the motorcycle is refueling, <br/>(1) put up the main stand <br/>(2)
     turn off the engine and cell phones <br/>(3) all of the above. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'When a motorcycle enters the gas station to refuel, <br/>(1) the engine
     must be turned off first <br/>(2) it is not necessary to turn off the engine <br/>(3)
     all of the above. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'When checking the motorcycle engine oil <br/>(1) turn off the engine
     first <br/>(2) park on a flat surface <br/>(3) all of the above. '
   answer: 3
@@ -2559,13 +2565,13 @@
     <br/>(3) it depends on the brand of the oil to determine what to do. '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'When you add engine oil, where should you pour it in? <br/>(1) from the
     dipstick hole <br/>(2) from the oil cap opening on the engine <br/>(3) from the
     fuel tank cap opening. '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'Should the oil filter on a motorcycle be replaced? <br/>(1) It depends
     on the brand of the oil <br/>(2) It is not necessary to replace it. <br/>(3) It
     depends on the specifications listed on the user manual.  '
@@ -2577,23 +2583,23 @@
     <br/>(3) extension lamp. '
   answer: 2
   tags:
-  - medium
+  - easy
 - question: 'What substance can you rub on the battery terminals to prevent corrosion?
     <br/>(1) paint <br/>(2) protective oil <br/>(3) asphalt. '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'The power source that generates the motor is from <br/>(1) the generator
     <br/>(2) the battery <br/>(3) the engine. '
   answer: 2
   tags:
-  - medium
+  - impossible
 - question: 'The main purpose for installing air filter in a motorcycle is to  <br/>(1)
     avoid sucking too much dust, which will damage the cylinder  <br/>(2) reduce the
     noise from the motorcycle engine <br/>(3) filter the emissions and reduce pollution. '
   answer: 1
   tags:
-  - impossible
+  - hard
 - question: 'Low tire pressure can cause <br/>(1) tire wear on both sides of the tires
     <br/>(2) tire wear on the center of the tires <br/>(3) lighter steering. '
   answer: 1
@@ -2608,13 +2614,13 @@
     tire wear in the middle of the tires <br/>(3) excessive fuel consumption. '
   answer: 2
   tags:
-  - hard
+  - impossible
 - question: 'When the tire pressure is too high, <br/>(1)  the shock absorber may
     break down sooner <br/>(2) it can cause wears in the middle of the tires <br/>(3)
     all of the above. '
   answer: 3
   tags:
-  - impossible
+  - hard
 - question: 'If the wear on the tire tread becomes severe, it is because <br/>(1)
     the tire pressure is too low <br/>(2) the tire pressure is too high <br/>(3) the
     vehicle is overloaded. '
@@ -2626,12 +2632,12 @@
     and the braking distance. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'The motorcycle owner is required to change the tires when the depth of
     tire tread is below <br/>(1) 1.6 mm <br/>(2) 1 mm <br/>(3) 0.8 mm . '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'What does the tire specification 3.50-10-8PR represent <br/>(1) tire
     width of 3.5 inches <br/>(2) inner diameter of the tire is 10 inches <br/>(3)
     all of the above. '
@@ -2643,12 +2649,12 @@
     for cracks, damages or abnormal wear <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'Which part of the tire is the weakest? <br/>(1) the surface  of the tire
     <br/>(2) the  sidewall of a tire  <br/>(3) the bead of a tire. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'You must check the tire pressure <br/>(1) when the tire temperature gets
     higher than the outside temperature after driving <br/>(2) when the front tire
     temperature is the same as the outside temperature <br/>(3) anytime.  '
@@ -2666,12 +2672,12 @@
     all of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'It is recommended that a tire can be used  for <br/>(1) 3 years <br/>(2)
     6 years <br/>(3) 9 years after it is manufactured. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'What is the main function for the tread on a tire? <br/>(1) for drainage
     <br/>(2) to increase friction <br/>(3) to prevent the tire surface from cracking.  '
   answer: 1
@@ -2688,7 +2694,7 @@
     slip and lose control <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'Which of the following is an improper usage for the side mirrors on the
     motorcycle? <br/>(1) when traveling too close to the vehicle ahead, monitot the
     rear view from the mirror to help you pass <br/>(2) adjust the mirrors to the
@@ -2696,7 +2702,7 @@
     adjust the side mirrors when waiting for the light to turn green. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'Which of the following is incorrect regarding carrying a  passenger on
     the motorcycle? <br/>(1) the passenger may not sit sideways <br/>(2) an ordinary
     light-duty motorcycle may not carry a passenger <br/>(3) heavyduty motorcycles
@@ -2710,13 +2716,13 @@
     to its characteristics until it reaches its maximum strength. '
   answer: 2
   tags:
-  - hard
+  - medium
 - question: 'When purchasing a helmet, <br/>(1) the helmet must have the BSMI certified
     label sticker <br/>(2) choose the ones with bright colors or coated with reflective
     material <br/>(3) all of the above. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'After a helmet sustains heavy impact, <br/>(1) it should not be used
     again <br/>(2) it can still be used if there is no damage on the surface <br/>(3)
     it can be used within 3 years of the manufacture date if there is no visible damage
@@ -2729,28 +2735,28 @@
     will be given. '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'Which of the following is not a safety precaution for turning on a curve?
     <br/>(1) make sure to slow down before making the turn <br/>(2) balance the motorcycle
     along the curve while making the turn <br/>(3) when exiting the curve, make sure
     that it is safe before accelerating to regular speed. '
   answer: 2
   tags:
-  - medium
+  - impossible
 - question: 'Which of the following behaviors is not helpful  for safety driving?  <br/>(1)
     use low beam lights when driving at night in the urban area <br/>(2) accelerate
     while turning to keep the balance <br/>(3) when driving in low speed, control
     the accelerator to gain balance.  '
   answer: 2
   tags:
-  - impossible
+  - medium
 - question: 'Which of the following is incorrect about refueling a motorcycle?  <br/>(1)
     avoid the use of gasoline from unknown source <br/>(2) octane number represents
     the anti-knock properties <br/>(3) unleaded gas with higher octane number is better
     for the engine. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'Which of the following is correct? <br/>(1) when the tire tread wear
     is horizontally aligned with the indicator, it is time to replace the tire <br/>(2)
     when the tire tread wear is vertically aligned with the indicator, it is time
@@ -2764,21 +2770,21 @@
     vehicle. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'Which of the following is incorrect about the side mirrors on the motorcycle?
     <br/>(1) they are mostly convex mirrors <br/>(2) the side mirrors help the driver
     check the traffic behind <br/>(3) If a motorist is unable to clearly see the traffic
     behind from the side mirrors, adjust it immediately.  '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'Which of the following is incorrect about the stands on the motorcycle?
     <br/>(1) they are divided into the main lift stand and side kick stand <br/>(2)
     they need to be replaced regularly <br/>(3) the side kick stand is less stable
     and should be used for temporary parking only. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'Which of the following descriptions is incorrect about the turn signal
     on the motorcycle? <br/>(1) the purpose is to warn the vehicles behind about the
     turning direction <br/>(2) the color of the lights should be orange <br/>(3) It
@@ -2793,7 +2799,7 @@
     a high beam and low beam light <br/>(3) the side mirrors are concave mirrors. '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'Passing another vehicle on a motorcycle is dangerous. Which of the following
     behaviors is wrong? <br/>(1) the driver should first make sure that passing is
     allowed on the section of the road <br/>(2)  use the horn to warn the vehicles
@@ -2810,7 +2816,7 @@
     inner wheel turning  radius. '
   answer: 1
   tags:
-  - medium
+  - impossible
 - question: 'Which of the following road conditions can make a motorcycle slip easily?
     <br/>(1) road markings <br/>(2) iron plates paved at the construction area <br/>(3)
     all of the above. '
@@ -2821,13 +2827,13 @@
     <br/>(1) speed up <br/>(2) slow down <br/>(3) zigzag through. '
   answer: 2
   tags:
-  - impossible
+  - easy
 - question: 'Which of the following is not proper for a motorcycle rider before turning
     <br/>(1) use the turn signal <br/>(2) allow large vehicles to go first <br/>(3)
     turn on the headlight. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'Which of the following is incorrect about a motorcycle passing through
     an intersection? <br/>(1) when approaching the intersection without traffic lights,
     the rider should slow down <br/>(2) when approaching an intersection without traffic
@@ -2872,7 +2878,7 @@
     of the throttle <br/>(2) honk <br/>(3) turn on the headlight. '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'Which of the following is a dangerous behavior for riding a motorcycle
     <br/>(1) talking on the cell phone while riding a motorcycle  <br/>(2) carrying
     passengers in the front and the back <br/>(3) all of the above. '
@@ -2887,7 +2893,7 @@
     to check for traffic.  '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'If strong wind blows from the left when riding a motorcycle, <br/>(1)
     speed through <br/>(2) tilt the body to the left <br/>(3) hold on to the handlebar
     tightly. '
@@ -2899,19 +2905,19 @@
     roadside <br/>(3) turn on the headlight. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'When there is a manhole cover on the road while riding a motorcycle,  <br/>(1)
     ride to the lane on the opposite direction <br/>(2) hold on to the handlebar tightly
     while riding over the manhole cover <br/>(3) accelerate to go over it. '
   answer: 2
   tags:
-  - easy
+  - medium
 - question: 'When going through rough roads, <br/>(1) hold on to the handlebar tightly
     to keep the motorcycle going straight <br/>(2) slow down and get ready to stop
     at anytime <br/>(3) all of the above. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'When riding a motorcycle through a construction area, and there are iron
     plates  laying on the ground, <br/>(1) slow down and go through <br/>(2) speed
     up and go through <br/>(3) evade them. '
@@ -2929,12 +2935,12 @@
     of the exhaust pipe higher <br/>(3) all of the above. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'Which of the following is not a proper gear for riding a motorcycle?  <br/>(1)
     two-piece raincoat <br/>(2) gloves <br/>(3) slippers. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'When you pick a helmet, <br/>(1) pick one that is as tight as possible
     to keep it from being blown away by the wind <br/>(2) select a dark colored one
     so the dirt won''t be so visible <br/>(3) none of the above . '
@@ -2958,7 +2964,7 @@
     control the motorcycle steadily and safely. '
   answer: 2
   tags:
-  - easy
+  - hard
 - question: 'The braking method for motorcycles varies based on the environment. During
     dry weather or on an downhill slope, <br/>(1) use the front wheel as the main
     brake, and use the rear wheel as the secondary breaking <br/>(2) use the rear
@@ -2986,7 +2992,7 @@
     driving is : <br/>(1) vision <br/>(2) hearing <br/>(3) touching. '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'When a motorcycle is traveling on a one-way street separated into a fast
     lane and a slow lane, the motorcycle should be on <br/>(1) the slow lane <br/>(2)
     the fast lane next to the slow lane <br/>(3) all of the above. '
@@ -3000,14 +3006,14 @@
     the length of two vehicles. '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'When riding a motorcycle on a road without lane divisions, broken yellow
     lines, or double yellow solid lines, or on a road that is separated into fast
     lane and slow lane, the speed limit is <br/>(1) 30 km <br/>(2) 40 km <br/>(3)
     50 km. '
   answer: 2
   tags:
-  - medium
+  - hard
 - question: 'When riding a motorcycle and waiting during the red light at the intersection,
     <br/>(1) try to avoid stopping on the fast lane <br/>(2) observe the traffic behind
     from the side mirrors <br/>(3) all of the above. '
@@ -3019,13 +3025,13 @@
     a safe distance <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'When traveling on a road separated into fast and slow lanes by a median
     strip, <br/>(1) turning left is not allowed on the slow lane <br/>(2) turning
     right is not allowed on the fast lane <br/>(3) all of the above. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'When traveling on the motorcycle in an foggy area, <br/>(1) turn on the
     headlight <br/>(2) slow down and keep a safe distance from other vehicles <br/>(3)
     all of the above. '
@@ -3036,7 +3042,7 @@
     the lane at the far right <br/>(3) on a road marking line. '
   answer: 3
   tags:
-  - medium
+  - easy
 - question: 'When riding a motorcycle in the mountains and there are falling rocks
     from the side of the mountain, <br/>(1) stop or make a detour <br/>(2) the motorcycle
     is small and agile, and is able to evade the rocks and keep going <br/>(3) Motorcycle
@@ -3049,7 +3055,7 @@
     of the inner wheels for large vehicles <br/>(3) all of the above. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'When encountering an emergency while driving at a high speed, the motorist
     <br/>(1)  reacts more slowly and the ability to respond will decrease <br/>(2)
     the same as usual <br/>(3) reacts more quickly and the ability to respond will
@@ -3069,7 +3075,7 @@
     on dangerous roads <br/>(2) do not speed <br/>(3) rest more. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'When riding a motorcycle on an empty country road, <br/>(1) it is ok
     to exceed the speed limit <br/>(2) follow the speed limit <br/>(3) it is ok to
     speed a little as long as it is safe, but not too fast. '
@@ -3158,7 +3164,7 @@
     all of the above. '
   answer: 3
   tags:
-  - easy
+  - medium
 - question: 'The essential body movements for a motorcycle rider on a mountain road
     is to use the right hand as the main control for the throttle, and maintain the
     rear wheel force when turning around a curve, <br/>(1) move the hips before turning
@@ -3167,7 +3173,7 @@
     when turning right <br/>(3) all of the above. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'When taking out the battery, after turning the key to the "OFF" position,
     the steps should be: <br/>(1) remove the negative cable first, and then remove
     the positive cable <br/>(2) remove the positive cable first, and then remove the
@@ -3179,14 +3185,14 @@
     horsepower <br/>(2) excessive fuel consumption <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'When installing windproof gloves on the motorcycle, <br/>(1)  if it is
     not fastened onto the handle, it might get stuck in the throttle and sudden unintended
     acceleration might occur <br/>(2) the gloves might get caught by vehicles passing
     from behind and cause accidents <br/>(3) all of the above. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'When a motorcycle rider accidentally rides onto the freeway, which of
     the following responses is incorrect? <br/>(1) move to the shoulder temporarily
     and call for help <br/>(2) try to keep up with the speed limit, remain on the
@@ -3194,25 +3200,25 @@
     the traffic to return to and exit through the original interchange. '
   answer: 3
   tags:
-  - hard
+  - easy
 - question: 'When a motorcycle is moving into the left turn waiting zone from the
     lane on the far right, which of the following lights is the correct one to use?
     <br/>(1) the right turn signal <br/>(2) the left turn signal <br/>(3) it is not
     necessarily to use any turn signal. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'When a motorcycle rider follows another vehicle in front of a level crossing,
     <br/>(1) slow down and maintain a greater distance from the vehicle ahead <br/>(2)
     maintain a regular speed <br/>(3) speed up and pass from the side. '
   answer: 1
   tags:
-  - hard
+  - medium
 - question: 'When you see the sign or marking for level crossing on the road, lower
     your speed to <br/>(1) below 15 km <br/>(2) below 30 km <br/>(3) not specified. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'If a motorist ignores the instructions from a level crossing guard, the
     alarm, the flashing lights, or the lowering gate and trespasses the crossing,
     in addition to 3 demerit points and mandatory driver safety courses, the motorist
@@ -3220,7 +3226,7 @@
     license revocation <br/>(3) driving license revocation for life. '
   answer: 3
   tags:
-  - hard
+  - impossible
 - question: 'If a motorist does not obey the instructions given by a level crossing
     guard, or a motorist drives through the crossing even when the alarm is sounded,
     the warning lights are blinking or the gate is lowered. In addition to a fine,
@@ -3228,7 +3234,7 @@
     course <br/>(3) all of the above. '
   answer: 3
   tags:
-  - impossible
+  - hard
 - question: 'If a person trespasses a level crossing and causes an accident, <br/>(1)
     a fine will be given <br/>(2) the driving license will be revoked for life <br/>(3)
     all of the above. '
@@ -3247,7 +3253,7 @@
     number 0800800333 <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'When approaching a level crossing with a gate or a guard, and if the
     guard does not signal to stop when the train is coming, <br/>(1) the driver should
     still look and listen first for any incoming train and pass through when is is
@@ -3255,7 +3261,7 @@
     speed through whenever is possible. '
   answer: 1
   tags:
-  - medium
+  - easy
 - question: 'When approaching a level crossing with a gate or a guard, if the gate
     is not lowered completely yet, <br/>(1) speed through as fast as possible <br/>(2)
     follow the vehicle ahead closely and speed through <br/>(3) stop, look and listen
@@ -3286,20 +3292,20 @@
     2. push; 3. press <br/>(3)  1. press; 2. push; 3. run. '
   answer: 3
   tags:
-  - easy
+  - hard
 - question: 'If the person who is obligated to purchase mandatory liability insurance
     did not purchase or did not renew the insurance when it is expired, which of the
     following penalties is incorrect? <br/>(1) no penalty <br/>(2) a fine <br/>(3)
     the license plate will be suspended when the vehicle is involved in an accident. '
   answer: 1
   tags:
-  - hard
+  - easy
 - question: 'The coverage of the mandatory liability insurance includes  <br/>(1)
     compensation for injuries and the loss of lives <br/>(2) compensation for damages
     on the vehicles and properties <br/>(3) compensation for stolen vehicles. '
   answer: 1
   tags:
-  - easy
+  - medium
 - question: 'After drinking alcohol, a motorcycle rider carried a friend home and
     hit a telephone pole while speeding through a curve. The motorcycle is covered
     by the mandatory liability insurance both suffered injuries. Can they claim for
@@ -3307,7 +3313,7 @@
     the passenger may make the claim. '
   answer: 3
   tags:
-  - medium
+  - hard
 - question: 'When A and B collided with each other on motorcycles and injured. The
     official determination is that A is liable and B is not. Can A and B make insurance
     claims from the mandatory liability insurance?  <br/>(1) Yes for both <br/>(2)
@@ -3340,7 +3346,7 @@
     and disability payment <br/>(2) death payment <br/>(3) all of the above. '
   answer: 3
   tags:
-  - hard
+  - medium
 - question: 'When purchasing a vehicle, what type of insurance is required?  <br/>(1)
     mandatory vehicle liability insurance <br/>(2) mandatory driver''s life insurance
     <br/>(3) mandatory automobile damage insurance. '
@@ -3357,13 +3363,13 @@
     passengers.  <br/>(1) A, B, C, D <br/>(2) A, B <br/>(3) C, D. '
   answer: 1
   tags:
-  - medium
+  - hard
 - question: 'Which of the following behaviors can reduce vehicle maintenance costs?
     <br/>(1) frequent and sudden acceleration <br/>(2) drive at a constant speed <br/>(3)
     frequent and sudden brakes. '
   answer: 2
   tags:
-  - hard
+  - easy
 - question: 'Low tire pressure and heavy load would cause excessive fuel consumption.
     Why? <br/>(1) increased friction between the tires and the ground <br/>(2) improper
     throttle control <br/>(3) prolonged warm up. '
@@ -3376,10 +3382,10 @@
     after the engine is started. '
   answer: 1
   tags:
-  - easy
+  - hard
 - question: 'Which of the following is not a benefit of eco-driving? <br/>(1) increase
     traveling time <br/>(2) reduce emissions of carbon dioxide <br/>(3) reduce gasoline
     consumption. '
   answer: 1
   tags:
-  - hard
+  - easy
