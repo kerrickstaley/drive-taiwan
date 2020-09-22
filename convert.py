@@ -260,6 +260,9 @@ class QuestionFile(object):
       sys.exit()
     if ankiexport:
       self.readLabels()
+
+    self.tag_map = self.readTagMap()
+
   def readLabels(self):
     self.labels = {}
     with open(self.ankiexport) as f:
@@ -268,6 +271,17 @@ class QuestionFile(object):
         id = line[0]
         tag = line[-1]
         self.labels[id] = tag
+
+  def readTagMap(self):
+    if not os.path.exists('inputs/tags'):
+      raise RuntimeError('Directory inputs/tags does not exist; did you run this from the root of the repo?')
+
+    yaml_path = os.path.join('inputs/tags', '{}-{}-{}-{}.yaml'.format(self.language, self.vehicle, self.signsrules, self.truechoice)
+    if not os.path.exists(yaml_path):
+      return None
+
+    return TagMap.load_from_yaml(yaml_path)
+
   def getFileID(self):
     return self.language+'-'+self.vehicle+'-'+self.signsrules+'-'+self.truechoice
   def newQuestion(self):
@@ -362,13 +376,18 @@ class Question(object):
     #anyID = fileID_and_num.replace(self.qfile.language,'any')
 
     # Always overriding label with the one in the english set
-    label = self.qfile.labels.get(englishID,'')
+    if self.qfile.tag_map is not None:
+      tags = self.qfile.tag_map.get_tags(self)
+      if tags is None:
+        raise RuntimeError('no tags for question {}'.format(self))
+    else:
+      tags = [self.qfile.labels.get(englishID,'')]
 
     #label = self.qfile.labels.get(fileID_and_num,'')
     #if not label:
 
       #label = self.qfile.labels.get(anyID,'')
-    row.append(label)
+    row.append(','.join(tags))
     return '\t'.join(row)
 
 def warning(*objs):
