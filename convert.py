@@ -214,7 +214,7 @@ class QuestionFile(object):
   def getFileID(self):
     return self.language+'-'+self.vehicle+'-'+self.signsrules+'-'+self.truechoice
   def newQuestion(self):
-    q = question(qfile=self)
+    q = Question(qfile=self)
     self.questions.append(q)
     return q
   def getQuestion(self,i):
@@ -251,7 +251,7 @@ class QuestionFile(object):
       imagefile = newbase+'-'+str(qnum)+'.png'
       self.images.append(imagefile)
 
-class question(object):
+class Question(object):
   @initializer
   def __init__(self,number='',question='',answer='',category='', qfile=''):
     pass
@@ -272,7 +272,7 @@ class question(object):
   def __ne__(self, other):
     return not self.__eq__(other)
   def __bool__(self):
-    empty = question()
+    empty = Question()
     mycopy = deepcopy(self)
     mycopy.qfile = ''
     return self != empty
