@@ -111,9 +111,6 @@ def main():
           skip = True
           continue
       if skip:
-        if current_q:
-          current_q.question = re.sub('\n','',current_q.question)
-          current_q = qfile.newQuestion()
         continue
       if re.match('^[0-9]{3}$',txt_strip):
         state = 'found_qnum'
