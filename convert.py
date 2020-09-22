@@ -14,6 +14,8 @@ import glob
 import pdb
 import csv
 from natsort import natsorted
+from typing import List
+import yaml
 
 ## This program converts Taiwan driver's test PDF files into csv for import as Anki flashcards. It can optionally copy images to Anki media folder
 
@@ -158,6 +160,61 @@ def initializer(func):
     func(self, *args, **kargs)
 
   return wrapper
+
+
+class TagMap:
+  """
+  Maps from `question` instances to their associated tags.
+
+  Currently the only tags we have are for the difficulty: "easy", "medium", "hard", and "impossible".
+  """
+  class QuestionAnswerTags:
+    def __init__(self, question: str, answer: str, tags: List[str]):
+      self.question = question
+      self.answer = answer
+      self.tags = tags
+
+    def __repr__(self):
+      attrs = ['question', 'answer', 'tags']
+      pieces = []
+      for attr in attrs:
+        pieces.append('{}={}'.format(attr, repr(getattr(self, attr))))
+      return '{}({})'.format(self.__class__.__name__, ', '.join(pieces))
+
+  def __init__(self, question_answer_tags: List[QuestionAnswerTags]):
+    self._q_and_a_to_tags = {}
+    for qatag in question_answer_tags:
+      key = self._key(qatag.question, qatag.answer)
+      self._q_and_a_to_tags[key] = qtag.tags
+
+  @classmethod
+  def load_from_yaml(cls, yaml_file_path):
+    with open(yaml_file_path) as f:
+      data = yaml.load(f)
+
+    qatags = []
+    for entry in data:
+      qatags.append(QuestionAnswerTags(question=entry['question'], answer=str(entry['answer']), tags=entry['tags']))
+
+    return cls(qatags)
+
+  @classmethod
+  def _normalize(cls, question: str) -> str:
+    question = question.sub('<br/>', ' ')
+    question = re.sub(question, ' +', ' ')
+    question = question.strip()
+    return question
+
+  @classmethod
+  def _key(cls, question: str, answer: str) -> str:
+    return cls._normalize(question) + '|' + answer
+
+  def get_tags(self, question: Question) -> List[str]:
+    """
+    Returns list of tags, or None if there are no tags for the given question defined in the YAML file.
+    """
+    return self._q_and_a_to_tags.get(self._key(question.question, question.answer))
+
 
 ## QuestionFile is used to build up an object and export to CSV.
 ## There is currently no import function
