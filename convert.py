@@ -114,7 +114,7 @@ def main():
         continue
       if re.match('^[0-9]{3}$',txt_strip):
         state = 'found_qnum'
-        qnum += 1
+        qnum = int(txt_strip)
         qnum_i = qnum-1
         if current_q:
           current_q.question = re.sub('\n','',current_q.question)
