@@ -378,8 +378,6 @@ class Question(object):
 
     # Always overriding label with the one in the english set
     if self.qfile.tag_map is not None:
-      if self.number == -1:
-        import pdb; pdb.set_trace()
       tags = self.qfile.tag_map.get_tags(self)
       if tags is None:
         raise RuntimeError('no tags for question {}'.format(self))
