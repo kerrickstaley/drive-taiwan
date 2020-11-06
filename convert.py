@@ -234,8 +234,8 @@ class QuestionFile(object):
               '機車法規選擇題-英文1090116' : ('moto', 'rules', 'choice', 'english'),
               'Signs-True or False／English〈機車標誌是非題-英文〉' : ('moto', 'signs', 'true', 'english'),
               'Signs-Choice／English〈機車標誌選擇題-英文〉' : ('moto', 'signs', 'choice', 'english'),
-              'Rules-Choice／English(汽車法規選擇題-英文)' : ('car', 'rules', 'choice', 'english'),
-              'Rules-True or False／English(汽車法規是非題-英文)' : ('car', 'rules', 'true', 'english'),
+              '汽車法規選擇題-英文1090116' : ('car', 'rules', 'choice', 'english'),
+              '汽車法規是非題-英文1090116' : ('car', 'rules', 'true', 'english'),
               'Signs-Choice／English(汽車標誌選擇題-英文)' : ('car', 'signs', 'choice', 'english'),
               'Signs-True or False／English(汽車標誌是非題-英文)' : ('car', 'signs', 'true', 'english'),
             }
