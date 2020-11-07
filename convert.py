@@ -139,6 +139,9 @@ def main():
         current_q.category = txt_strip
   filehandler.close()
 
+  for question in qfile.questions:
+    question.question = question.question.strip()
+
   qfile.writeCSV(args.working)
   if args.ankimedia:
     qfile.copyImages(workingDir, args.ankimedia)
