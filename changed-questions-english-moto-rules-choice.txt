@@ -1,0 +1,123 @@
+[1mdiff --git "a/pdfs/\346\251\237\350\273\212\346\263\225\350\246\217\346\230\257\351\235\236\351\241\214-\350\213\261\346\226\2071090116.pdf" "b/pdfs/\346\251\237\350\273\212\346\263\225\350\246\217\346\230\257\351\235\236\351\241\214-\350\213\261\346\226\2071090116.pdf"[m
+[1mindex 6f1b7f6..d0714d5 100644[m
+Binary files "a/pdfs/\346\251\237\350\273\212\346\263\225\350\246\217\346\230\257\351\235\236\351\241\214-\350\213\261\346\226\2071090116.pdf" and "b/pdfs/\346\251\237\350\273\212\346\263\225\350\246\217\346\230\257\351\235\236\351\241\214-\350\213\261\346\226\2071090116.pdf" differ
+[1mdiff --git a/yamls/english-moto-rules-true.yaml b/yamls/english-moto-rules-true.yaml[m
+[1mindex b3f7949..7a5fded 100644[m
+[1m--- a/yamls/english-moto-rules-true.yaml[m
+[1m+++ b/yamls/english-moto-rules-true.yaml[m
+[36m@@ -299,7 +299,7 @@[m
+   number: 48[m
+   category: '11'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: Do not make sudden brakes while in high speed. It may cause rearend collisions.[m
+[32m+[m[32m- question: Do not make sudden brakes while in high speed. It may cause rear-end collisions.[m
+   answer: O[m
+   number: 49[m
+   category: '11'[m
+[36m@@ -624,8 +624,8 @@[m
+   number: 101[m
+   category: '11'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: Motorcycles are not permitted to drive along with a convoy of onduty police[m
+[31m-    or security vehicles.[m
+[32m+[m[32m- question: Motorcycles are not permitted to drive along with a convoy of on-duty[m
+[32m+[m[32m    police or security vehicles.[m
+   answer: O[m
+   number: 102[m
+   category: '11'[m
+[36m@@ -738,7 +738,7 @@[m
+   number: 120[m
+   category: '11'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: Being considerate, showing common courtesy, and having selfcontrol are[m
+[32m+[m[32m- question: Being considerate, showing common courtesy, and having self-control are[m
+     the minimum requirements for being a good motorcycle driver.[m
+   answer: O[m
+   number: 121[m
+[36m@@ -1096,7 +1096,7 @@[m
+   number: 177[m
+   category: '11'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: At an intersection, a motorcycle should stop and wait before the stopline.[m
+[32m+[m[32m- question: At an intersection, a motorcycle should stop and wait before the stop-line.[m
+     When the traffic light turns green, the driver should check the surrounding traffic[m
+     to prevent collision and accident with other traffic violators.[m
+   answer: O[m
+[36m@@ -1180,7 +1180,7 @@[m
+ - question: A motorcycle is both a convenient and dangerous form of transportation.[m
+     The best way to ensure safety is to follow traffic regulations, develop road etiquette[m
+     and be familiar with defensive driving techniques. Value life, respect life and[m
+[31m-    respect the right-ofway.[m
+[32m+[m[32m    respect the right-of-way.[m
+   answer: O[m
+   number: 190[m
+   category: '11'[m
+[36m@@ -1352,9 +1352,8 @@[m
+   number: 215[m
+   category: '12'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: According to the Road Traffic Management and Penalty Act, a motorcycle[m
+[31m-    rider who is found drunk driving a second time within five years will be fined[m
+[31m-    up to NT$90,000.[m
+[32m+[m[32m- question: According to the current regulations of the Statute Governing Road Traffic,[m
+[32m+[m[32m    the maximum fine for motorcyclists driving under the influence of alcohol is NT$90,000.[m
+   answer: O[m
+   number: 216[m
+   category: '12'[m
+[36m@@ -1556,7 +1555,7 @@[m
+   category: '12'[m
+   difficulty: unknown_difficulty[m
+ - question: On a road with 3 lanes going in the same direction, motorcyclists are[m
+[31m-    required to use a two-step turning process when turning left. On oneway roads,[m
+[32m+[m[32m    required to use a two-step turning process when turning left. On one-way roads,[m
+     motorcyclists traveling in the right lane or the slow lane are required to use[m
+     a two-step process when turning left. Motorcyclists in either the left lane or[m
+     left slow lane are required to use a two-step process when turning right.[m
+[36m@@ -2081,7 +2080,7 @@[m
+   number: 331[m
+   category: '12'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: Motorcycle waiting zone is for all motorcycles except large heavyduty[m
+[32m+[m[32m- question: Motorcycle waiting zone is for all motorcycles except large heavy-duty[m
+     motorcycles to stop during red light, other vehicles may not stop within the waiting[m
+     zone.[m
+   answer: O[m
+[36m@@ -2196,10 +2195,10 @@[m
+   number: 347[m
+   category: '12'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: Any motorcycle rider who refuses to take an alcohol sobriety test will[m
+[31m-    be fined NT$180,000 for the first violation, the motorcycle will be impounded,[m
+[31m-    the driver's license will be suspended, and the driver must participate in driver[m
+[31m-    safety courses.[m
+[32m+[m[32m- question: If a motorcycle rider refuses to take a breathing test for alcohol level[m
+[32m+[m[32m    administered by the police, the rider shall be fined for NT $90,000. The vehicle[m
+[32m+[m[32m    will be impounded, the license will be revoked, and the rider shall participate[m
+[32m+[m[32m    in mandatory traffic safety classes.[m
+   answer: O[m
+   number: 348[m
+   category: '12'[m
+[36m@@ -4499,10 +4498,10 @@[m
+   number: 706[m
+   category: '15'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: When a driver passes another vehicle, makes a U-turn, backs up, or temporarily[m
+[31m-    parks on a level crossing, the penalty shall be a fine between NT$15,000 and NT$90,000,[m
+[31m-    three demerit points, and driver's license suspension. If the driver is involved[m
+[31m-    in an accident, the driver's license will be revoked additionally.[m
+[32m+[m[32m- question: A motorist passing other vehicles, making a U-turn, backing up, or temporarily[m
+[32m+[m[32m    parking on the level crossing shall be fined between NT $15,000 to NT $60,000,[m
+[32m+[m[32m    and receive 3 demerit points. If the motorist causes an accident, his or her driving[m
+[32m+[m[32m    license shall be revoked[m
+   answer: O[m
+   number: 707[m
+   category: '15'[m
+[36m@@ -4587,7 +4586,7 @@[m
+   number: 719[m
+   category: '15'[m
+   difficulty: unknown_difficulty[m
+[31m-- question: When the car is stuck on a railroad crossing, the driver or a passersby[m
+[32m+[m[32m- question: When the car is stuck on a railroad crossing, the driver or a passers-by[m
+     can press the red emergency button beside the guard rail so that the train conductor[m
+     can brake and decelerate to avoid unnecessary loss of life and property.[m
+   answer: O[m
